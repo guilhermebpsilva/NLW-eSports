@@ -28,8 +28,7 @@ body * {
     line-height: 160%;
 }
 header {
-    margin-top: 32px;
-    height: calc(120px + 32px);
+    margin-top: 32px;;
 }
 header div {
     display: flex;
